@@ -51,7 +51,7 @@
     keymap {
         compatible = "zmk,keymap";
 
-        default_layer {
+        colemak_layer {
             display-name = "CLMKDH";
             bindings = <
 &kp TAB    &kp Q  &kp W  &kp F     &kp P  &kp B                               &kp UP                &kp J        &kp L  &kp U      &kp Y    &kp SEMICOLON  &kp BSPC
